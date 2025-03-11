@@ -1,0 +1,14 @@
+export const COLORS = {
+  NETFLIX_RED: '#E50914',
+  NETFLIX_DARK_RED: '#B20710',
+  BLACK: '#000000',
+  WHITE: '#ffffff',
+
+  PRIMARY: '#E50914',
+  MUTED: '#61666c',
+
+  INPUT_BORDER: '#61666c',
+  INPUT_PLACEHOLDER: '#61666c',
+
+  BUTTON_DARK: '#333333',
+};
