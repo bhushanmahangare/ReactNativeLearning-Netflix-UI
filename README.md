@@ -141,6 +141,7 @@ The UI is built using:
 - Platform-specific styling where needed
 
 Netflix
-https://freeimage.host/i/3BGCxsV
-https://freeimage.host/i/3BGCnzx
-https://freeimage.host/i/3BGCBbj
+
+[![3BGCxsV.md.png](https://iili.io/3BGCxsV.md.png)](https://freeimage.host/i/3BGCxsV)
+[![3BGCnzx.png](https://iili.io/3BGCnzx.png)](https://freeimage.host/)
+[![3BGCBbj.png](https://iili.io/3BGCBbj.png)](https://freeimage.host/)
