@@ -9,6 +9,12 @@ export const styles = StyleSheet.create({
   container: {
     position: 'relative',
     aspectRatio: 3 / 4,
+    display: 'flex',
+    flexDirection: 'row',
+    gap: 16,
+    padding: 16,
+    borderRadius: 16,
+    backgroundColor: COLORS.BLACK,
   },
 
   gredientContainer: {
@@ -18,19 +24,19 @@ export const styles = StyleSheet.create({
     left: 0,
     right: 0,
     zIndex: 2,
+    gap: 8,
   },
 
   gredient: {
-    width: '100%',
-    height: '100%',
+    width: '99%',
+    height: '99%',
   },
   image: {
-    position: 'absolute',
-    top: 0,
+    width: 300,
+    height: 400,
+    borderRadius: 8,
+    marginRight: 16,
     bottom: 0,
-    left: 0,
-    right: 0,
-    zIndex: 1,
   },
 
   footer: {
@@ -57,7 +63,10 @@ export const styles = StyleSheet.create({
     backgroundColor: COLORS.BUTTON_DARK,
     flexGrow: 1,
   },
-  scrollContent:{
-    paddingHorizontal: 16,
-  }
+  posterImage: {
+    width: 400,
+    height: 400,
+    borderRadius: 8,
+    marginRight: 16,
+  },
 });

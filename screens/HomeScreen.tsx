@@ -1,7 +1,7 @@
 import React from 'react';
 import { SafeAreaView, ScrollView, StyleSheet, View } from 'react-native';
-import HeroPoster from '../components/organisms/HeroPoster/HeroPoster.component1.0';
 import { movies } from '../lib/movies';
+import VerticalHeroPosters from '../components/templates/VerticalHeroScrollPosters/VerticalHeroScrollPosters.component';
 import HorizontalScrollPosters from '../components/templates/HorizontalScrollPosters/HorizontalScrollPosters.component';
 
 export default function HomeScreen() {
@@ -41,7 +41,7 @@ export default function HomeScreen() {
     <SafeAreaView style={styles.background}>
       <ScrollView style={styles.container}>
         <View style={styles.poster}>
-          <HeroPoster />
+          <VerticalHeroPosters />
         </View>
 
         <View>
@@ -64,7 +64,8 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   background: {
     backgroundColor: '#2e303d',
-    paddingBottom: 200,
+    paddingBottom: 20,
+    paddingTop: 20,
   },
   container: {},
   poster: {

@@ -1161,11 +1161,11 @@ export const movies = [
 
 export const mainPosterImages = [
   `https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg`,
-  `https://iili.io/3fafVS9.jpg`,
-  'https://iili.io/3faf0Ml.jpg',
-  'https://iili.io/3faKAIj.jpg',
-  'https://iili.io/3faKrQ4.jpg',
   `https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg`,
   `https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg`,
   `https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg`,
+  `https://iili.io/3fafVS9.jpg`,
+  `https://iili.io/3faf0Ml.jpg`,
+  `https://iili.io/3faKAIj.jpg`,
+  `https://iili.io/3faKrQ4.jpg`,
 ];
