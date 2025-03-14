@@ -1,0 +1,313 @@
+[
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/7/18877447/436bde1158bf1132f19deda28bc99c00_o2_featured_v2.jpg",
+        "name": "Domino's Pizza",
+        "rating": "3.8",
+        "category": "Pizza, Italian, Pasta, Fast Food, Desserts",
+        "price": "₹200 for one",
+        "time": "28 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/3/19576533/d55770ba36436e89baf36194c0e06513_o2_featured_v2.jpg",
+        "name": "Wood Square Restaurant",
+        "rating": "3.6",
+        "category": "North Indian, Chinese",
+        "price": "₹150 for one",
+        "time": "37 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/chains/0/18899500/ae8e35dddbfbde0a34dded13995bf0ee_o2_featured_v2.jpg",
+        "name": "Wood Square",
+        "rating": "3.6",
+        "category": "Cafe, Pizza, Ice Cream, Fast Food, Sandwich, Burger, Juices, Shake",
+        "price": "₹100 for one",
+        "time": "41 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/7/20844967/2ea116a58763c537b866634efde86740_o2_featured_v2.jpg",
+        "name": "Simmi s Kitchen",
+        "rating": "3.5",
+        "category": "North Indian, South Indian, Pizza, Burger",
+        "price": "₹100 for one",
+        "time": "41 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/7/19612417/deb3badc16b249919ec6e9842be23084_o2_featured_v2.jpg",
+        "name": "Mundras Marwadi Namkeen Evam Restaurant",
+        "rating": "3.5",
+        "category": "North Indian",
+        "price": "₹200 for one",
+        "time": "39 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/6/19682596/4e9630aa19d3fabaa42ffb15478b42e8_o2_featured_v2.jpg",
+        "name": "Indian Zayka - Veg Non Veg Restaurant",
+        "rating": "3.5",
+        "category": "North Indian, Pizza, Chinese, Mughlai",
+        "price": "₹200 for one",
+        "time": "30 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/6/21167066/60f3a6c74129d3543d3cc58bb643ac63_o2_featured_v2.jpg",
+        "name": "Zara Ke Zayke",
+        "rating": "4.0",
+        "category": "BBQ",
+        "price": "₹100 for one",
+        "time": "41 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/8/20840968/2e45cb77c99fc48fe3d34864bed36198_featured_v2.jpg",
+        "name": "90z Coffee",
+        "rating": "3.9",
+        "category": "Cafe, Coffee, Sandwich, Burger, Fast Food, Street Food, Chinese, Beverages",
+        "price": "₹200 for one",
+        "time": "28 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/5/19108705/dc73146b971eb58a6c24f349e88954a5_o2_featured_v2.jpg",
+        "name": "Sports Coffee Bar",
+        "rating": "3.9",
+        "category": "Pizza, Pasta, Burger, Sandwich, Fast Food, Coffee, Waffle, Beverages",
+        "price": "₹250 for one",
+        "time": "29 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/7/21392107/adee77ab4a1ae6006172817d6120a239_o2_featured_v2.jpg",
+        "name": "Italizza",
+        "rating": "4.3",
+        "category": "Pizza, Fast Food",
+        "price": "₹250 for one",
+        "time": "33 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/9/20573409/ec093d635416084b9566c654c45b9a48_o2_featured_v2.jpg",
+        "name": "Hotel Ujjain Pride",
+        "rating": "4.0",
+        "category": "North Indian, South Indian, Sandwich, Salad, Juices, Beverages",
+        "price": "₹200 for one",
+        "time": "22 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/0/21031810/d5413db9636fac60478d8ea2c3d87587_o2_featured_v2.jpg",
+        "name": "Rice & Spices",
+        "rating": "3.4",
+        "category": "North Indian, Biryani",
+        "price": "₹200 for one",
+        "time": "32 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/7/21554347/3d854d548157952468a6ccae1de14add_o2_featured_v2.jpg",
+        "name": "Simmi's Ujjaini Flavours",
+        "rating": "3.2",
+        "category": "North Indian, Chinese",
+        "price": "₹100 for one",
+        "time": "36 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/9/19114559/b6735973d8229f51c2cfdf10301cbb94_o2_featured_v2.jpg",
+        "name": "Hardik Refreshment",
+        "rating": "3.7",
+        "category": "Desserts, Fast Food, Beverages",
+        "price": "₹150 for one",
+        "time": "37 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/chains/3/19192183/14d141fd7f8c05deec4460b7b38002c7_o2_featured_v2.jpg",
+        "name": "Galaxy Food Court",
+        "rating": "4.0",
+        "category": "Fast Food",
+        "price": "₹100 for one",
+        "time": "32 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/6/19539226/bb11b8ea33874e7a100d07fe3a7a13a1_o2_featured_v2.jpg",
+        "name": "The Chicken Company",
+        "rating": "3.8",
+        "category": "North Indian, Chinese, Pizza, Burger, Sandwich",
+        "price": "₹200 for one",
+        "time": "23 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/4/21563524/d91c7f67775b42b97bc5b7d641ab8477_o2_featured_v2.jpg",
+        "name": "Home Style Food Service",
+        "rating": "3.0",
+        "category": "North Indian, Pizza, Fast Food",
+        "price": "₹150 for one",
+        "time": "34 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/2/21469502/77a9392c7968f1a4f562870e2edd7dbe_o2_featured_v2.jpg",
+        "name": "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
+        "rating": "4.1",
+        "category": "Shake, Ice Cream, Desserts",
+        "price": "₹150 for one",
+        "time": "29 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/1/21588911/10bca197bef170587fcd4d883cf5c4ed_o2_featured_v2.jpg",
+        "name": "Cheesy Way",
+        "rating": "4.3",
+        "category": "Fast Food, Burger, Sandwich",
+        "price": "₹100 for one",
+        "time": "25 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/7/20068957/fad1792bef9d9f61efcc65902c3d752e_o2_featured_v2.jpg",
+        "name": "Salad N Snack Delite",
+        "rating": "3.9",
+        "category": "Fast Food, Salad",
+        "price": "₹150 for one",
+        "time": "33 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/4/21019254/e5e0c4406fa9ca7a145a76a42a7c7d8e_o2_featured_v2.jpg",
+        "name": "Ajju Vijju Baking Co.",
+        "rating": "4.0",
+        "category": "Bakery, Desserts",
+        "price": "₹200 for one",
+        "time": "25 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/6/21482496/b8cbab153ae3425b3ea81ca71314b616_o2_featured_v2.jpg",
+        "name": "Tasty Bites Restaurant",
+        "rating": "3.6",
+        "category": "North Indian, Biryani, Street Food",
+        "price": "₹150 for one",
+        "time": "38 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/3/21288613/46426044824b9f99308789f42955e7f2_o2_featured_v2.jpg",
+        "name": "Raghukul Restaurant",
+        "rating": "3.8",
+        "category": "North Indian, Biryani, Pizza, Street Food, Chinese, Sichuan, Desserts, Beverages",
+        "price": "₹200 for one",
+        "time": "35 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/8/18963858/90afd9c2b60379f9c90c42da1f8b7f8e_o2_featured_v2.jpg",
+        "name": "Burgerland",
+        "rating": "3.8",
+        "category": "Fast Food, Burger",
+        "price": "₹150 for one",
+        "time": "30 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/0/20990810/cb5da38a518887426f4cd50d49ee71b9_o2_featured_v2.jpg",
+        "name": "Cafe La Ville",
+        "rating": "4.1",
+        "category": "Pizza, Sandwich, Fast Food, Desserts",
+        "price": "₹250 for one",
+        "time": "21 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/3/21434213/5a3bad1ec36901cdd01277c623adc0a0_o2_featured_v2.jpg",
+        "name": "Laziz Veg And Non Veg Restaurant",
+        "rating": "3.4",
+        "category": "North Indian, Pizza, Burger, Sandwich, Rolls, Chinese, Street Food, Beverages",
+        "price": "₹150 for one",
+        "time": "39 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/1/19910401/e04a495f1624925210f7335cfd1e6aec_o2_featured_v2.jpg",
+        "name": "Darbar Foods",
+        "rating": "3.5",
+        "category": "North Indian, Chinese, Fast Food",
+        "price": "₹100 for one",
+        "time": "26 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/5/20150185/1e65460ce19180e2f868caf21ec43305_o2_featured_v2.jpg",
+        "name": "The Sandwich Island",
+        "rating": "3.5",
+        "category": "Fast Food, Sandwich, Street Food, Shake, Tea, Beverages",
+        "price": "₹150 for one",
+        "time": "26 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/9/21760919/e7fe80602333921a76acd42337ba3689_o2_featured_v2.jpg",
+        "name": "Maggi Studio",
+        "rating": "New",
+        "category": "Street Food",
+        "price": "₹100 for one",
+        "time": "33 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/5/21465545/8054add17fd384e2aece6ba9b2bccc09_o2_featured_v2.jpg",
+        "name": "B'creamy",
+        "rating": "4.0",
+        "category": "Shake, Ice Cream, Juices, Beverages",
+        "price": "₹150 for one",
+        "time": "18 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/9/21763999/d2800ad3a7a7f45dd09ab38df0668e3d_o2_featured_v2.jpg",
+        "name": "Upasana's Cloud Kitchen",
+        "rating": "New",
+        "category": "North Indian, Sandwich, Street Food",
+        "price": "₹100 for one",
+        "time": "40 min"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/3/20485103/40c024b240ecb0cbecce1386d7cb2630_o2_featured_v2.jpg",
+        "name": "Mahakal Food And Cafe Restaurant",
+        "rating": "3.6",
+        "category": "Street Food, Fast Food, North Indian, Chinese, Pizza, Sandwich, Beverages",
+        "price": "₹150 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/chains/9/18861779/46fcaea76f2706549f14439c13f395df_o2_featured_v2.jpg",
+        "name": "Karachi is now Kastoor's Restaurant",
+        "rating": "4.1",
+        "category": "North Indian, Biryani, Kebab",
+        "price": "₹550 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/chains/5/18868015/f0f069ad3d92fe7015495b983e5627ef_o2_featured_v2.jpg",
+        "name": "Shree Sanwariya Sandwich",
+        "rating": "4.4",
+        "category": "Sandwich, Burger, Pizza, Fast Food, Beverages, Desserts",
+        "price": "₹100 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/5/20397845/ad7396f72bc89304ff57994867bee64f_o2_featured_v2.jpg",
+        "name": "La Pino'z Pizza",
+        "rating": "4.1",
+        "category": "Pizza, Pasta, Italian, Fast Food",
+        "price": "₹150 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/5/19575945/c39c6e53c76eb668c5bcde10890039be_o2_featured_v2.png",
+        "name": "Chhaya Hotel",
+        "rating": "3.8",
+        "category": "North Indian",
+        "price": "₹150 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18867947/eda3b33005bacf74521d119d7de68cf7_o2_featured_v2.jpg",
+        "name": "Magick Oven",
+        "rating": "4.0",
+        "category": "Pizza, Italian, Chinese, Continental, Fast Food, Desserts, Bakery, Beverages",
+        "price": "₹150 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/6/19331856/d5af437e86d1e58caf2d2c74b6a37215_o2_featured_v2.jpg",
+        "name": "Online Khana - Khana Hamara Thali Apki",
+        "rating": "3.4",
+        "category": "Burger, Cafe, Chinese, Fast Food, Momos, Pizza, Rolls, Sandwich",
+        "price": "₹100 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/3/20767923/77f593da3de11333e5dadae01a57f41c_o2_featured_v2.jpg",
+        "name": "Highway 27 Restaurant",
+        "rating": "3.9",
+        "category": "North Indian, Chinese",
+        "price": "₹150 for one"
+    },
+    {
+        "image": "https://b.zmtcdn.com/data/pictures/2/20357802/a5e4d7949e317e93fd638405c4e10663_o2_featured_v2.jpg",
+        "name": "Burger Headquarter",
+        "rating": "4.2",
+        "category": "Wraps, Burger, Sandwich, Street Food, Beverages",
+        "price": "₹150 for one"
+    }
+]

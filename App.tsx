@@ -1,12 +1,12 @@
 import React from 'react';
 import LoginScreen from './screens/LoginScreen';
 import HomeScreen from './screens/HomeScreen';
-import ZomatoHomeScreen from './screens/ZomatoHomeScreen';
+import ZomatoHome from './screens/ZomatoHome';
 
 function App(): React.JSX.Element {
-  return <HomeScreen />;
+  //return <HomeScreen />;
   // return <LoginScreen />;
-  //return <ZomatoHomeScreen />;
+  return <ZomatoHome />;
 }
 
 export default App;
