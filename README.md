@@ -148,8 +148,10 @@ Netflix
 
 
 Zomato App Calculator App
+[![3z1fx1I.md.png](https://iili.io/3z1fx1I.md.png)](https://freeimage.host/i/3z1fx1I)
 
-[url=https://freeimage.host/i/3z1fx1I][img]https://iili.io/3z1fx1I.md.png[/img][/url]
-[url=https://freeimage.host/i/3z1foqN][img]https://iili.io/3z1foqN.md.png[/img][/url]
-[url=https://freeimage.host/][img]https://iili.io/3z1fzgt.png[/img][/url]
-[url=https://freeimage.host/][img]https://iili.io/3z1fTdX.png[/img][/url]
+[![3z1foqN.md.png](https://iili.io/3z1foqN.md.png)](https://freeimage.host/i/3z1foqN)
+
+[![3z1fzgt.png](https://iili.io/3z1fzgt.png)](https://freeimage.host/)
+
+[![3z1fTdX.png](https://iili.io/3z1fTdX.png)](https://freeimage.host/)
