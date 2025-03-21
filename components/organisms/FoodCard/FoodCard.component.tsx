@@ -1,4 +1,4 @@
-import { FlatList, ScrollView, View, Text } from 'react-native';
+import { FlatList, ScrollView, View } from 'react-native';
 import foodFilterData from '../../../lib/foodFilter.json';
 import foodData from '../../../lib/food.json';
 import FoodFilterCard from '../../organisms/FoodFilterCard/FoodFilterCard.component';
