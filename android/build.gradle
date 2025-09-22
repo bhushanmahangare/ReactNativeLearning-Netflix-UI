@@ -4,8 +4,8 @@ buildscript {
         minSdkVersion = 24
         compileSdkVersion = 35
         targetSdkVersion = 35
-        ndkVersion = "27.1.12297006"
         kotlinVersion = "2.0.21"
+        ndkVersion = "21.4.7075529" // Specify a working NDK version. If this version is not installed, install it via Android Studio SDK Manager, or change this to an installed version that contains the source.properties file.
     }
     repositories {
         google()
