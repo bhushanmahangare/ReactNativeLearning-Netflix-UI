@@ -21,8 +21,8 @@ importers:
         specifier: ^4.2.0
         version: 4.2.0
       pnpm:
-        specifier: ^10.7.0
-        version: 10.7.0
+        specifier: ^10.28.2
+        version: 10.28.2
       react:
         specifier: 19.0.0
         version: 19.0.0
@@ -134,6 +134,10 @@ packages:
     resolution: {integrity: sha512-RJlIHRueQgwWitWgF8OdFYGZX328Ax5BCemNGlqHfplnRT9ESi8JkFlvaVYbS+UubVY6dpv87Fs2u5M29iNFVQ==}
     engines: {node: '>=6.9.0'}
 
+  '@babel/code-frame@7.28.6':
+    resolution: {integrity: sha512-JYgintcMjRiCvS8mMECzaEn+m3PfoQiyqukOMCCVQtoJGYJw8j/8LBJEiqkHLkfwCcs74E3pbAUFNg7d9VNJ+Q==}
+    engines: {node: '>=6.9.0'}
+
   '@babel/compat-data@7.26.8':
     resolution: {integrity: sha512-oH5UPLMWR3L2wEFLnFJ1TZXqHufiTKAiLfqw5zkhS4dKXLJ10yVztfil/twG8EDTA4F/tvVNw9nOl4ZMslB8rQ==}
     engines: {node: '>=6.9.0'}
@@ -151,6 +155,10 @@ packages:
 
   '@babel/generator@7.27.0':
     resolution: {integrity: sha512-VybsKvpiN1gU1sdMZIp7FcqphVVKEwcuj02x73uvcHE0PTihx1nlBcowYWhDwjpoAXRv43+gDzyggGnn1XZhVw==}
+    engines: {node: '>=6.9.0'}
+
+  '@babel/generator@7.28.6':
+    resolution: {integrity: sha512-lOoVRwADj8hjf7al89tvQ2a1lf53Z+7tiXMgpZJL3maQPDxh0DgLMN62B2MKUOFcoodBHLMbDM6WAbKgNy5Suw==}
     engines: {node: '>=6.9.0'}
 
   '@babel/helper-annotate-as-pure@7.25.9':
@@ -177,6 +185,10 @@ packages:
     resolution: {integrity: sha512-jljfR1rGnXXNWnmQg2K3+bvhkxB51Rl32QRaOTuwwjviGrHzIbSc8+x9CpraDtbT7mfyjXObULP4w/adunNwAw==}
     peerDependencies:
       '@babel/core': ^7.4.0 || ^8.0.0-0 <8.0.0
+
+  '@babel/helper-globals@7.28.0':
+    resolution: {integrity: sha512-+W6cISkXFa1jXsDEdYA8HeevQT/FULhxzR99pxphltZcVaugps53THCeiWA8SguxxpSp3gKPiuYfSWopkLQ4hw==}
+    engines: {node: '>=6.9.0'}
 
   '@babel/helper-member-expression-to-functions@7.25.9':
     resolution: {integrity: sha512-wbfdZ9w5vk0C0oyHqAJbc62+vet5prjj01jjJ8sKn3j9h3MQQlflEdXYvuqRWjHnM12coDEqiC1IRCi0U/EKwQ==}
@@ -220,8 +232,16 @@ packages:
     resolution: {integrity: sha512-4A/SCr/2KLd5jrtOMFzaKjVtAei3+2r/NChoBNoZ3EyP/+GlhoaEGoWOZUmFmoITP7zOJyHIMm+DYRd8o3PvHA==}
     engines: {node: '>=6.9.0'}
 
+  '@babel/helper-string-parser@7.27.1':
+    resolution: {integrity: sha512-qMlSxKbpRlAridDExk92nSobyDdpPijUq2DW6oDnUqd0iOGxmQjyqhMIihI9+zv4LPyZdRje2cavWPbCbWm3eA==}
+    engines: {node: '>=6.9.0'}
+
   '@babel/helper-validator-identifier@7.25.9':
     resolution: {integrity: sha512-Ed61U6XJc3CVRfkERJWDz4dJwKe7iLmmJsbOGu9wSloNSFttHV0I8g6UAgb7qnK5ly5bGLPd4oXZlxCdANBOWQ==}
+    engines: {node: '>=6.9.0'}
+
+  '@babel/helper-validator-identifier@7.28.5':
+    resolution: {integrity: sha512-qSs4ifwzKJSV39ucNjsvc6WVHs6b7S03sOh2OcHF9UHfVPqWWALUsNUVzhSBiItjRZoLHx7nIarVjqKVusUZ1Q==}
     engines: {node: '>=6.9.0'}
 
   '@babel/helper-validator-option@7.25.9':
@@ -238,6 +258,11 @@ packages:
 
   '@babel/parser@7.27.0':
     resolution: {integrity: sha512-iaepho73/2Pz7w2eMS0Q5f83+0RKI7i4xmiYeBmDzfRVbQtTOG7Ts0S4HzJVsTMGI9keU8rNfuZr8DKfSt7Yyg==}
+    engines: {node: '>=6.0.0'}
+    hasBin: true
+
+  '@babel/parser@7.28.6':
+    resolution: {integrity: sha512-TeR9zWR18BvbfPmGbLampPMW+uW1NZnJlRuuHso8i87QZNq2JRF9i6RgxRqtEq+wQGsS19NNTWr2duhnE49mfQ==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -782,12 +807,24 @@ packages:
     resolution: {integrity: sha512-2ncevenBqXI6qRMukPlXwHKHchC7RyMuu4xv5JBXRfOGVcTy1mXCD12qrp7Jsoxll1EV3+9sE4GugBVRjT2jFA==}
     engines: {node: '>=6.9.0'}
 
+  '@babel/template@7.28.6':
+    resolution: {integrity: sha512-YA6Ma2KsCdGb+WC6UpBVFJGXL58MDA6oyONbjyF/+5sBgxY/dwkhLogbMT2GXXyU84/IhRw/2D1Os1B/giz+BQ==}
+    engines: {node: '>=6.9.0'}
+
   '@babel/traverse@7.27.0':
     resolution: {integrity: sha512-19lYZFzYVQkkHkl4Cy4WrAVcqBkgvV2YM2TU3xG6DIwO7O3ecbDPfW3yM3bjAGcqcQHi+CCtjMR3dIEHxsd6bA==}
     engines: {node: '>=6.9.0'}
 
+  '@babel/traverse@7.28.6':
+    resolution: {integrity: sha512-fgWX62k02qtjqdSNTAGxmKYY/7FSL9WAS1o2Hu5+I5m9T0yxZzr4cnrfXQ/MX0rIifthCSs6FKTlzYbJcPtMNg==}
+    engines: {node: '>=6.9.0'}
+
   '@babel/types@7.27.0':
     resolution: {integrity: sha512-H45s8fVLYjbhFH62dIJ3WtmJ6RSPt/3DRO0ZcT2SUiYiQyz3BLVb9ADEnLl91m74aQPS3AzzeajZHYOalWe3bg==}
+    engines: {node: '>=6.9.0'}
+
+  '@babel/types@7.28.6':
+    resolution: {integrity: sha512-0ZrskXVEHSWIqZM/sQZ4EV3jZJXRkio/WCxaqKZP1g//CEWEPSfeZFcms4XeKBCHU0ZKnIkdJeU/kF+eRp5lBg==}
     engines: {node: '>=6.9.0'}
 
   '@bcoe/v8-coverage@0.2.3':
@@ -921,6 +958,9 @@ packages:
     resolution: {integrity: sha512-u3UPsIilWKOM3F9CXtrG8LEJmNxwoCQC/XVj4IKYXvvpx7QIi/Kg1LI5uDmDpKlac62NUtX7eLjRh+jVZcLOzw==}
     engines: {node: ^14.15.0 || ^16.10.0 || >=18.0.0}
 
+  '@jridgewell/gen-mapping@0.3.13':
+    resolution: {integrity: sha512-2kkt/7niJ6MgEPxF0bYdQ6etZaA+fQvDcLKckhy1yIQOzaoKjBBjSj63/aLVjYE3qhRt5dvM+uUyfCg6UKCBbA==}
+
   '@jridgewell/gen-mapping@0.3.8':
     resolution: {integrity: sha512-imAbBGkb+ebQyxKgzv5Hu2nmROxoDOXHh80evxdoXNOrvAnVx7zimzc1Oo5h9RlfV4vPXaE2iM5pOFbvOCClWA==}
     engines: {node: '>=6.0.0'}
@@ -939,8 +979,14 @@ packages:
   '@jridgewell/sourcemap-codec@1.5.0':
     resolution: {integrity: sha512-gv3ZRaISU3fjPAgNsriBRqGWQL6quFx04YMPW/zD8XMLsU32mhCCbfbO6KZFLjvYpCZ8zyDEgqsgf+PwPaM7GQ==}
 
+  '@jridgewell/sourcemap-codec@1.5.5':
+    resolution: {integrity: sha512-cYQ9310grqxueWbl+WuIUIaiUaDcj7WOq5fVhEljNVgRfOUhY9fy2zTvfoqWsnebh8Sl70VScFbICvJnLKB0Og==}
+
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
+
+  '@jridgewell/trace-mapping@0.3.31':
+    resolution: {integrity: sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==}
 
   '@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1':
     resolution: {integrity: sha512-54/JRvkLIzzDWshCWfuhadfrfZVPiElY8Fcgmg1HroEly/EDSszzhBAsarCux+D/kOslTRquNzuyGSmUSTTHGg==}
@@ -1679,6 +1725,15 @@ packages:
 
   debug@4.4.0:
     resolution: {integrity: sha512-6WTZ/IxCY/T6BALoZHaE4ctp9xm+Z5kY/pzYaCHRFeyVhojxlrm+46y68HA6hr0TcwEssoxNiDEUJQjfPZ/RYA==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+
+  debug@4.4.3:
+    resolution: {integrity: sha512-RGwwWnwQvkVfavKVt22FGLw+xYSdzARwm0ru6DhTVA3umU5hZc28V3kO4stgYryrTlLpuvgI9GiijltAjNbcqA==}
     engines: {node: '>=6.0'}
     peerDependencies:
       supports-color: '*'
@@ -3029,8 +3084,8 @@ packages:
     resolution: {integrity: sha512-HRDzbaKjC+AOWVXxAU/x54COGeIv9eb+6CkDSQoNTt4XyWoIJvuPsXizxu/Fr23EiekbtZwmh1IcIG/l/a10GQ==}
     engines: {node: '>=8'}
 
-  pnpm@10.7.0:
-    resolution: {integrity: sha512-a4Za1LYqHZhCth1nSjk5A7hx2SRJVPZSuIQsK1U8chdrJ49kxGPlLUD/+KujhcI1yMns9cx95P14uLttSWM6tg==}
+  pnpm@10.28.2:
+    resolution: {integrity: sha512-QYcvA3rSL3NI47Heu69+hnz9RI8nJtnPdMCPGVB8MdLI56EVJbmD/rwt9kC1Q43uYCPrsfhO1DzC1lTSvDJiZA==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -3170,6 +3225,7 @@ packages:
 
   react-native-vector-icons@10.2.0:
     resolution: {integrity: sha512-n5HGcxUuVaTf9QJPs/W22xQpC2Z9u0nb0KgLPnVltP8vdUvOp6+R26gF55kilP/fV4eL4vsAHUqUjewppJMBOQ==}
+    deprecated: react-native-vector-icons package has moved to a new model of per-icon-family packages. See the https://github.com/oblador/react-native-vector-icons/blob/master/MIGRATION.md on how to migrate
     hasBin: true
 
   react-native-vision-camera@4.6.4:
@@ -3829,6 +3885,12 @@ snapshots:
       js-tokens: 4.0.0
       picocolors: 1.1.1
 
+  '@babel/code-frame@7.28.6':
+    dependencies:
+      '@babel/helper-validator-identifier': 7.28.5
+      js-tokens: 4.0.0
+      picocolors: 1.1.1
+
   '@babel/compat-data@7.26.8': {}
 
   '@babel/core@7.26.10':
@@ -3865,6 +3927,14 @@ snapshots:
       '@babel/types': 7.27.0
       '@jridgewell/gen-mapping': 0.3.8
       '@jridgewell/trace-mapping': 0.3.25
+      jsesc: 3.1.0
+
+  '@babel/generator@7.28.6':
+    dependencies:
+      '@babel/parser': 7.28.6
+      '@babel/types': 7.28.6
+      '@jridgewell/gen-mapping': 0.3.13
+      '@jridgewell/trace-mapping': 0.3.31
       jsesc: 3.1.0
 
   '@babel/helper-annotate-as-pure@7.25.9':
@@ -3909,6 +3979,8 @@ snapshots:
       resolve: 1.22.10
     transitivePeerDependencies:
       - supports-color
+
+  '@babel/helper-globals@7.28.0': {}
 
   '@babel/helper-member-expression-to-functions@7.25.9':
     dependencies:
@@ -3966,7 +4038,11 @@ snapshots:
 
   '@babel/helper-string-parser@7.25.9': {}
 
+  '@babel/helper-string-parser@7.27.1': {}
+
   '@babel/helper-validator-identifier@7.25.9': {}
+
+  '@babel/helper-validator-identifier@7.28.5': {}
 
   '@babel/helper-validator-option@7.25.9': {}
 
@@ -3986,6 +4062,10 @@ snapshots:
   '@babel/parser@7.27.0':
     dependencies:
       '@babel/types': 7.27.0
+
+  '@babel/parser@7.28.6':
+    dependencies:
+      '@babel/types': 7.28.6
 
   '@babel/plugin-bugfix-firefox-class-in-computed-class-key@7.25.9(@babel/core@7.26.10)':
     dependencies:
@@ -4635,6 +4715,12 @@ snapshots:
       '@babel/parser': 7.27.0
       '@babel/types': 7.27.0
 
+  '@babel/template@7.28.6':
+    dependencies:
+      '@babel/code-frame': 7.28.6
+      '@babel/parser': 7.28.6
+      '@babel/types': 7.28.6
+
   '@babel/traverse@7.27.0':
     dependencies:
       '@babel/code-frame': 7.26.2
@@ -4647,10 +4733,27 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
+  '@babel/traverse@7.28.6':
+    dependencies:
+      '@babel/code-frame': 7.28.6
+      '@babel/generator': 7.28.6
+      '@babel/helper-globals': 7.28.0
+      '@babel/parser': 7.28.6
+      '@babel/template': 7.28.6
+      '@babel/types': 7.28.6
+      debug: 4.4.3
+    transitivePeerDependencies:
+      - supports-color
+
   '@babel/types@7.27.0':
     dependencies:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
+
+  '@babel/types@7.28.6':
+    dependencies:
+      '@babel/helper-string-parser': 7.27.1
+      '@babel/helper-validator-identifier': 7.28.5
 
   '@bcoe/v8-coverage@0.2.3': {}
 
@@ -4887,6 +4990,11 @@ snapshots:
       '@types/yargs': 17.0.33
       chalk: 4.1.2
 
+  '@jridgewell/gen-mapping@0.3.13':
+    dependencies:
+      '@jridgewell/sourcemap-codec': 1.5.5
+      '@jridgewell/trace-mapping': 0.3.31
+
   '@jridgewell/gen-mapping@0.3.8':
     dependencies:
       '@jridgewell/set-array': 1.2.1
@@ -4899,15 +5007,22 @@ snapshots:
 
   '@jridgewell/source-map@0.3.6':
     dependencies:
-      '@jridgewell/gen-mapping': 0.3.8
-      '@jridgewell/trace-mapping': 0.3.25
+      '@jridgewell/gen-mapping': 0.3.13
+      '@jridgewell/trace-mapping': 0.3.31
 
   '@jridgewell/sourcemap-codec@1.5.0': {}
+
+  '@jridgewell/sourcemap-codec@1.5.5': {}
 
   '@jridgewell/trace-mapping@0.3.25':
     dependencies:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
+
+  '@jridgewell/trace-mapping@0.3.31':
+    dependencies:
+      '@jridgewell/resolve-uri': 3.1.2
+      '@jridgewell/sourcemap-codec': 1.5.5
 
   '@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1':
     dependencies:
@@ -5218,9 +5333,7 @@ snapshots:
     transitivePeerDependencies:
       - '@babel/core'
       - '@babel/preset-env'
-      - bufferutil
       - supports-color
-      - utf-8-validate
 
   '@react-native/normalize-colors@0.78.0': {}
 
@@ -5986,6 +6099,10 @@ snapshots:
       ms: 2.0.0
 
   debug@4.4.0:
+    dependencies:
+      ms: 2.1.3
+
+  debug@4.4.3:
     dependencies:
       ms: 2.1.3
 
@@ -7373,7 +7490,7 @@ snapshots:
   metro-source-map@0.81.4:
     dependencies:
       '@babel/traverse': 7.27.0
-      '@babel/traverse--for-generate-function-map': '@babel/traverse@7.27.0'
+      '@babel/traverse--for-generate-function-map': '@babel/traverse@7.28.6'
       '@babel/types': 7.27.0
       flow-enums-runtime: 0.0.6
       invariant: 2.2.4
@@ -7699,7 +7816,7 @@ snapshots:
     dependencies:
       find-up: 4.1.0
 
-  pnpm@10.7.0: {}
+  pnpm@10.28.2: {}
 
   possible-typed-array-names@1.1.0: {}
 
